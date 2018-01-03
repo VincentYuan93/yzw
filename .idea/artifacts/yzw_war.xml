@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yzw:war">
+    <output-path>$PROJECT_DIR$/../yzw/target</output-path>
+    <root id="archive" name="yzw-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="yzw:war exploded" />
+    </root>
+  </artifact>
+</component>
